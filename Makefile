@@ -1,5 +1,5 @@
 # Use /bin/bash instead of /bin/sh
-export SHELL = /bin/bash
+export SHELL = /usr/bin/env bash
 
 ## ========================================
 ## Commands for both workshop and lesson websites.
